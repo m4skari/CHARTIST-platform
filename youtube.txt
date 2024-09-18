@@ -1,0 +1,93 @@
+Track '24i' has a fake stream probability of 0.03
+Track '4e sob ibiza' has a fake stream probability of 0.01
+Track '5AM' has a fake stream probability of 0.03
+Track 'ARMANI' has a fake stream probability of 0.03
+Track 'Asle Majara' has a fake stream probability of 0.02
+Track 'Az Tarafe Man' has a fake stream probability of 0.02
+Track 'BAD BOY' has a fake stream probability of 0.03
+Track 'Back Door' has a fake stream probability of 0.02
+Track 'Bad J' has a fake stream probability of 0.03
+Track 'Bago Bega' has a fake stream probability of 0.01
+Track 'Bavelamko' has a fake stream probability of 0.03
+Track 'Beri Behtare' has a fake stream probability of 0.01
+Track 'Besmellah' has a fake stream probability of 0.03
+Track 'Bi Ghafiye' has a fake stream probability of 0.01
+Track 'Bikhial' has a fake stream probability of 0.03
+Track 'Block' has a fake stream probability of 0.02
+Track 'Butterfly' has a fake stream probability of 0.02
+Track 'Capital T' has a fake stream probability of 0.02
+Track 'Chart' has a fake stream probability of 0.03
+Track 'Chi Dare Mishe' has a fake stream probability of 0.03
+Track 'Chief Keef' has a fake stream probability of 0.01
+Track 'Chiki' has a fake stream probability of 0.03
+Track 'Classy' has a fake stream probability of 0.03
+Track 'Coldest Summer' has a fake stream probability of 0.02
+Track 'Cut' has a fake stream probability of 0.02
+Track 'DELVAPAS' has a fake stream probability of 0.03
+Track 'DOORTAR' has a fake stream probability of 0.02
+Track 'Dart' has a fake stream probability of 0.03
+Track 'Deal' has a fake stream probability of 0.01
+Track 'Emirate' has a fake stream probability of 0.02
+Track 'Freakam' has a fake stream probability of 0.03
+Track 'Ghasedak' has a fake stream probability of 0.01
+Track 'Ghatle Amd' has a fake stream probability of 0.03
+Track 'Gom o Goor' has a fake stream probability of 0.01
+Track 'Grand Pow' has a fake stream probability of 0.02
+Track 'Hakem' has a fake stream probability of 0.01
+Track 'Harfi Dari?' has a fake stream probability of 0.03
+Track 'Hayula' has a fake stream probability of 0.02
+Track 'Hayula 2' has a fake stream probability of 0.01
+Track 'Heydari' has a fake stream probability of 0.03
+Track 'Hichvaght' has a fake stream probability of 0.01
+Track 'In Seri' has a fake stream probability of 0.03
+Track 'Jenaaze' has a fake stream probability of 0.03
+Track 'KILL ME' has a fake stream probability of 0.03
+Track 'Kafi Ni' has a fake stream probability of 0.02
+Track 'Kare Ma' has a fake stream probability of 0.03
+Track 'Khashme Shab' has a fake stream probability of 0.03
+Track 'Khaterate Kohan' has a fake stream probability of 0.02
+Track 'Kiramam Nist' has a fake stream probability of 0.03
+Track 'Koosh' has a fake stream probability of 0.01
+Track 'LOVINOMORE' has a fake stream probability of 0.02
+Track 'La Lo A' has a fake stream probability of 0.03
+Track 'MESHKI' has a fake stream probability of 0.02
+Track 'Mahze Etminan' has a fake stream probability of 0.02
+Track 'Maria' has a fake stream probability of 0.02
+Track 'Maskan Mehr' has a fake stream probability of 0.01
+Track 'Merch' has a fake stream probability of 0.02
+Track 'Meshki' has a fake stream probability of 0.03
+Track 'Migan' has a fake stream probability of 0.02
+Track 'Nagi Jayi' has a fake stream probability of 0.02
+Track 'Nemikhamet Dige' has a fake stream probability of 0.03
+Track 'Normal' has a fake stream probability of 0.01
+Track 'Nutella' has a fake stream probability of 0.01
+Track 'OnlyFans' has a fake stream probability of 0.03
+Track 'Puzzle' has a fake stream probability of 0.03
+Track 'Red Red' has a fake stream probability of 0.03
+Track 'Roast' has a fake stream probability of 0.01
+Track 'Robot' has a fake stream probability of 0.02
+Track 'Run' has a fake stream probability of 0.01
+Track 'Setaarehaa' has a fake stream probability of 0.03
+Track 'Shakkak' has a fake stream probability of 0.03
+Track 'Shohrat' has a fake stream probability of 0.03
+Track 'Siah' has a fake stream probability of 0.03
+Track 'Tamoome' has a fake stream probability of 0.02
+Track 'Tanhaee Behtaram' has a fake stream probability of 0.03
+Track 'The Mistake' has a fake stream probability of 0.03
+Track 'Tipsy' has a fake stream probability of 0.01
+Track 'Toam Beri' has a fake stream probability of 0.03
+Track 'Trap Mode' has a fake stream probability of 0.01
+Track 'Turn Off' has a fake stream probability of 0.02
+Track 'UNSAID' has a fake stream probability of 0.02
+Track 'Untitled II' has a fake stream probability of 0.03
+Track 'Vaghti Nisti' has a fake stream probability of 0.01
+Track 'YL Freestyle' has a fake stream probability of 0.03
+Track 'Yad Gereftam' has a fake stream probability of 0.02
+Track 'Yadet ni' has a fake stream probability of 0.03
+Track 'Yadetim Koli' has a fake stream probability of 0.03
+Track 'Ye Jaye Door' has a fake stream probability of 0.02
+Track 'Ye Rooze Khoob Keye' has a fake stream probability of 0.03
+Track 'Yebare Dige' has a fake stream probability of 0.01
+Track 'Yeki Dar Mioon' has a fake stream probability of 0.01
+Track 'Zendegi Hamine' has a fake stream probability of 0.03
+Track 'die alone.' has a fake stream probability of 0.01

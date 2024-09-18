@@ -1,0 +1,11 @@
+Warning: Not enough data or constant log_times for 'Garme'. Skipping gradient calculation.
+Warning: Not enough data or constant log_times for 'KARBALA'. Skipping gradient calculation.
+Track 'Be Qiafat Nemiad' has a fake stream probability of 0.02
+Track 'Butterfly' has a fake stream probability of 0.02
+Track 'Ghatle Amd' has a fake stream probability of 0.03
+Track 'HICHKI BE JOZ TO II' has a fake stream probability of 0.02
+Track 'Hasta La Vista' has a fake stream probability of 0.02
+Track 'Khaterate Kohan' has a fake stream probability of 0.02
+Track 'Nagi Jayi' has a fake stream probability of 0.02
+Track 'Tehroon' has a fake stream probability of 0.02
+Track 'Ye Jaye Door' has a fake stream probability of 0.02
